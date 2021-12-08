@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "name": "FullyRemoteURL",
   "version": "1.0",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "homepage_url": "https://github.com/aund/fullykioskremoteurl",
   "icons": {
     "48": "icons/fully.png"
   },
@@ -12,7 +12,6 @@
   "permissions": [
     "activeTab",
     "tabs",
-    "https://fullykiosk.i.microfox.co.uk/*",
     "http://192.168.0.212:2323/*"
   ],
 
