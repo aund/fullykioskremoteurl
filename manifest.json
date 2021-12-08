@@ -12,6 +12,7 @@
   "permissions": [
     "activeTab",
     "tabs",
+    "https://fullykiosk.i.microfox.co.uk/*",
     "http://192.168.0.212:2323/*"
   ],
 
